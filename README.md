@@ -1,1 +1,1 @@
-# trianglify-gen
+# Trianglify Gen
